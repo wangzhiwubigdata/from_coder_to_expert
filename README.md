@@ -1,4 +1,5 @@
 ### 2019年最新总结，从程序员到CTO，从专业走向卓越，企业内部分享文档pdf与PPT整理
+![image](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcode_for_gh_7da7e7c9c668_258.jpg)
 
 ### 整理大牛分享文档如下，持续更新一线开发架构，技术文档
 ##### 网易蜂巢公有容器云架构之路
@@ -130,8 +131,3 @@
 <br/>
 <br/>
 
-
-#### 获取大牛视频资料，专家架构交流3群：783153655
-#### 若群已满，添加QQ：469254771 , 备注github
-#### 关注公众号，更多权威架构设计方案。 另附企业内推，架构设计资料，相关视频资料
-![image](https://github.com/0voice/interview_internal_reference/blob/master/arch.jpg)
